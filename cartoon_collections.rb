@@ -15,6 +15,9 @@ end
 return new_array
 end
 
+def long_planeteer_calls
+end
+
 
 
 
