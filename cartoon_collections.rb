@@ -10,7 +10,7 @@ end
 def summon_captain_planet(array)
 new_array=[]
 array.map do |call|
-  new_array<< "#{call.to}"
+  new_array<< "#{call.capitalize}!"
 end
 return new_array
 end
