@@ -7,7 +7,13 @@ array.each_with_index do |item,index|
 end
 
 
-
+def summon_captain_planet(array)
+new_array=[]
+array.map do |call|
+  new_array<< "#{call.to}"
+end
+return new_array
+end
 
 
 
