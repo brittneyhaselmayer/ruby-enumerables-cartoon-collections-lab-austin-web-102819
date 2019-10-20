@@ -15,7 +15,7 @@ end
 return new_array
 end
 
-def long_planeteer_calls
+def long_planeteer_calls(array)
 end
 
 
